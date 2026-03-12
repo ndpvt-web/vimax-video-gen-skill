@@ -250,3 +250,12 @@ Based on [HKUDS/ViMax](https://github.com/HKUDS/ViMax). Adapted for the HappyCap
 ## License
 
 MIT
+
+---
+
+## Keywords
+
+> *For the search engines and the curious humans who find things by typing random words*
+
+AI video generation, face consistency video, multi-shot video AI, video generation pipeline, AI film maker, consistent character video, identity-preserving video, HappyCapy video, Claude Code video skill, text to video, AI video creator, ViMax video, face identity video generation, AI content creation
+
